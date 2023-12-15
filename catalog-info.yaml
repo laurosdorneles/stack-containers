@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: stack-containers
+  annotations:
+    github.com/project-slug: laurosdorneles/stack-containers
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
